@@ -42,6 +42,6 @@ Educational Awareness / Digital Skills
 https://docs.google.com/forms/d/e/1FAIpQLSfaFwwhyznSVmcsou9CAXk6lxb5uwhDVDjzo2x95aYmqeu2qw/viewform?usp=header
 
 ## 👨‍💻 Author
-## Vishal Singh Gaira
-## 25MIM10061
-## Int. Mtech in AI
+ Vishal Singh Gaira
+ 25MIM10061
+ Int. Mtech in AI
